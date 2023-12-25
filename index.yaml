@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  onlinebookapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-25T20:05:28.1726034Z"
+    description: A Helm chart for Kubernetes
+    digest: 5e96c858e85f40c4748b4311d34c300c1f15f1dd119942925a99b2dd35792b81
+    name: onlinebookapp
+    type: application
+    urls:
+    - https://nandanaravi6.github.io/onlinebookhelm/onlinebookapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-25T20:05:28.17187026Z"
